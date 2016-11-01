@@ -1,1 +1,0 @@
-var tipuesearch = {"pages":[{"tags":"misc","title":"About","url":"./pages/about/","text":"2016Fallcadp_hw 個人作業網誌"},{"tags":"作業","title":"40423116 作業簡報","url":"./40423116-zuo-ye-jian-bao.html","text":"個人作業簡報"},{"tags":"作業","title":"Solvespace 零組件繪圖","url":"./solvespace-ling-zu-jian-hui-tu.html","text":"Solvespace 零組件繪圖 練習零件繪製 練習零件繪製 from 40423116 on Vimeo ."}]};
