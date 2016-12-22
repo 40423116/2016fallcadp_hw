@@ -31,7 +31,7 @@
 <v t="leo.20161124155130.9"><vh>練習零件繪製</vh>
 <v t="leo.20161124155130.10"><vh>內容</vh></v>
 </v>
-<v t="leo.20161124155610.1"><vh>沒網路</vh>
+<v t="leo.20161124155610.1" a="E"><vh>沒網路</vh>
 <v t="leo.20161124155610.2"><vh>沒網路日常</vh></v>
 </v>
 <v t="leo.20161124155130.11"><vh>三大主題教學</vh>
@@ -898,7 +898,7 @@ make.start()
 						
 </t>
 <t tx="leo.20161124155610.2">&lt;section&gt;
-&lt;h2&gt;沒網路日常&lt;/h2&gt;
+&lt;h2&gt;沒網路日常好lag&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/185690642" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/185690642"&gt;沒網路日常&lt;/a&gt; from &lt;a href="https://vimeo.com/user47573583"&gt;40423116&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;</t>
